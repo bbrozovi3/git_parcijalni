@@ -1,1 +1,3 @@
 Ovo je neki tekst
+
+A ovo je jos jedna promjena
